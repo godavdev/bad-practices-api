@@ -3,7 +3,6 @@ import { Elysia, t } from "elysia";
 // Generación de datos simulados
 const bankUsers = [];
 
-// Helper to generate random data
 const firstNames = ["Juan", "Maria", "Pedro", "Ana", "Luis", "Sofia", "Carlos", "Elena"];
 const lastNames = ["Garcia", "Rodriguez", "Hernandez", "Lopez", "Martinez", "Gonzalez", "Perez"];
 const addresses = ["Av. Reforma", "Calle 5 de Mayo", "Insurgentes Sur", "Av. Juarez", "Calle Madero"];
